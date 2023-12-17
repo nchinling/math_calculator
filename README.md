@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Calculator
+
+This is a simple desk calculator app created with React. The logic is implemented in App.js. Keyboard inputs are enabled.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
